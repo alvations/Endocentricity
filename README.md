@@ -1,4 +1,4 @@
-# Hyponym Endrocentricity
+# Hyponym Endocentricity
 
 This repository contains the submissions and code used to produce USAAR submission to [SemEval-2016 Taxonomy Extraction Evaluation (TExEval) Task](alt.qcri.org/semeval2016/task13/index.php?id=evaluation).
 
