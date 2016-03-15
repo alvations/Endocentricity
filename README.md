@@ -9,7 +9,7 @@ Liling Tan. 2016. USAAR: Hyponym Endocentricity. In Proceedings of the 10th Inte
 ```
 @inproceedings{,
   title={USAAR: Hyponym Endocentricity},
-  author={Tan, Liling},
+  author={Tan, Liling and Bond, Francis and van Genabith, Josef},
   booktitle={Proceedings of the 10th International Workshop on Semantic Evaluation (SemEval 2016)},
   month     = {June},
   year      = {2016},
